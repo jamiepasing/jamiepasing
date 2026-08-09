@@ -80,5 +80,5 @@ Expected graduation: September 2026
 </p>
 
 <p align="center">
-  <i>"Curiouser and curiouser"</i> ✨
+  <i>"Curiouser and curiouser"</i> 
 </p>
