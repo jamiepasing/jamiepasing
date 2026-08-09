@@ -21,7 +21,7 @@ My name is Jasmin Paige T. Mazaredo, I'm a system developer building my skills f
 ### Education
 
 **Bachelor of Science in Computer Engineering**
-Polytechnic University of the Philippines
+Polytechnic University of the Philippines <br>
 Expected graduation: September 2026
 
 ---
