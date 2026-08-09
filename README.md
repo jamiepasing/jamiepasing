@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Aspiring Novelist | Homecook</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=20&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+corner+of+GitHub.;I+build+things+%E2%80%94+and+sometimes+they+even+work.;Currently+plotting+my+next+project...+or+webnovel." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=20&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=A+little+logic%2C+a+lot+of+curiosity...;...and+just+enough+mischief+to+keep+things+interesting." alt="Typing SVG" />
 </p>
 
 ---
@@ -45,22 +45,19 @@ Expected graduation: September 2026
 
 ### Projects
 
+### Projects
+
 <table>
   <tr>
-    <td width="50%">
-      <h4>🇵🇭 Biyahero — Philippine News & Government Search Engine</h4>
-      <p>A search engine focused on Philippine news, government, and political content, built entirely from scratch: custom crawler, TF-IDF ranking algorithm, and a custom user interface.</p>
+    <td>
+      <h4>Biyahero </h4>
+      <p>A search engine focused on Philippine news built entirely from scratch: custom crawler, TF-IDF ranking algorithm, and a custom user interface.</p>
       <p>
         <b>Stack:</b> Python, Flask, PostgreSQL (Supabase), deployed on Render<br/>
         <b>Features:</b> RSS-based crawling across 10 sources, custom search index and ranking (no external search library), category filtering, trending searches, automated scheduling, uptime and health monitoring
       </p>
       <p><i>Source code is private; available to walk through during an interview or conversation.</i></p>
       <a href="https://biyahero-nqjj.onrender.com" target="_blank">Live Demo →</a>
-    </td>
-    <td width="50%">
-      <h4>Project Name Two</h4>
-      <p>Description pending.</p>
-      <a href="#">View Repo →</a>
     </td>
   </tr>
 </table>
