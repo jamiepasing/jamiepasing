@@ -1,19 +1,20 @@
-<h1 align="center">My name is Paige</h1>
+<h1 align="center">JAMIE</h1>
 <h3 align="center">Full Stack Developer | Aspiring Novelist | Homecook</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+corner+of+GitHub.;I+build+things+%E2%80%94+and+sometimes+they+even+work.;Currently+plotting+my+next+project...+or+webnovel." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=20&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+corner+of+GitHub.;I+build+things+%E2%80%94+and+sometimes+they+even+work.;Currently+plotting+my+next+project...+or+webnovel." alt="Typing SVG" />
 </p>
 
 ---
 
 ### About Me
 
-I'm a system developer building my skills from the ground up — one project, one problem solved, at a time. Outside of development, I write fiction and enjoy cooking, both of which I approach the same way I approach code: with patience, a willingness to experiment, and an eye for detail.
+My name is Jasmin Paige T. Mazaredo, I'm a system developer building my skills from the ground up — one idea, one project, one problem solved, at a time. Outside of development, I write fiction and enjoy cooking, both of which I approach the same way I approach code: with patience, a willingness to experiment, and an eye for detail.
 
-- Currently strengthening my full stack development skills
-- Author of original webnovels and system-based creative projects
-- Interested in the intersection of structured logic and storytelling
+- Currently strengthening my full stack development skills one step at a time
+- Currently working as a Teacher, teaching Biology and Chemistry to SHS students
+- Author of original webnovels and system-based projects
+- Interested in the intersection of structured logic and storytelling, and the idea of merging the two together
 
 ---
 
@@ -21,8 +22,15 @@ I'm a system developer building my skills from the ground up — one project, on
 
 **Bachelor of Science in Computer Engineering**
 Polytechnic University of the Philippines
-Expected graduation: September
+Expected graduation: September 2026
 
+---
+
+### Languages
+- Tagalog — Native
+- English — Fluent
+- Currently learning additional languages
+- 
 ---
 
 ### Tech Stack
