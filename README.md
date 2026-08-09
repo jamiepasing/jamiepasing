@@ -30,7 +30,7 @@ Expected graduation: September 2026
 - Tagalog — Native
 - English — Fluent
 - Currently learning additional languages
-- 
+  
 ---
 
 ### Tech Stack
@@ -42,8 +42,6 @@ Expected graduation: September 2026
 </p>
 
 ---
-
-### Projects
 
 ### Projects
 
@@ -79,4 +77,8 @@ Expected graduation: September 2026
   <a href="https://www.linkedin.com/in/jasmin-paige-mazaredo-350027354/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+</p>
+
+<p align="center">
+  <i>"Curiouser and curiouser"</i> ✨
 </p>
