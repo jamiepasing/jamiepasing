@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">My name is Paige</h1>
+<h3 align="center">Full Stack Developer | Aspiring Novelist | Homecook</h3>
 
-<!--
-**jamiepasing/jamiepasing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+corner+of+GitHub.;I+build+things+%E2%80%94+and+sometimes+they+even+work.;Currently+plotting+my+next+project...+or+webnovel." alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I'm a system developer building my skills from the ground up — one project, one problem solved, at a time. Outside of development, I write fiction and enjoy cooking, both of which I approach the same way I approach code: with patience, a willingness to experiment, and an eye for detail.
+
+- Currently strengthening my full stack development skills
+- Author of original webnovels and system-based creative projects
+- Interested in the intersection of structured logic and storytelling
+
+---
+
+### Education
+
+**Bachelor of Science in Computer Engineering**
+Polytechnic University of the Philippines
+Expected graduation: September
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+---
+
+### Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🇵🇭 Biyahero — Philippine News & Government Search Engine</h4>
+      <p>A search engine focused on Philippine news, government, and political content, built entirely from scratch: custom crawler, TF-IDF ranking algorithm, and a custom user interface.</p>
+      <p>
+        <b>Stack:</b> Python, Flask, PostgreSQL (Supabase), deployed on Render<br/>
+        <b>Features:</b> RSS-based crawling across 10 sources, custom search index and ranking (no external search library), category filtering, trending searches, automated scheduling, uptime and health monitoring
+      </p>
+      <p><i>Source code is private; available to walk through during an interview or conversation.</i></p>
+      <a href="https://biyahero-nqjj.onrender.com" target="_blank">Live Demo →</a>
+    </td>
+    <td width="50%">
+      <h4>Project Name Two</h4>
+      <p>Description pending.</p>
+      <a href="#">View Repo →</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jamiepasing&show_icons=true&theme=radical&hide_border=true&title_color=C084FC&icon_color=C084FC" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamiepasing&theme=radical&hide_border=true&background=0D1117&stroke=C084FC&ring=C084FC&fire=C084FC" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+### Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jasmin-paige-mazaredo-350027354/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
