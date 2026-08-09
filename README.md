@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Aspiring Novelist | Homecook</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=20&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=A+little+logic%2C+a+lot+of+curiosity...;...and+just+enough+mischief+to+keep+things+interesting." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Verdana&size=18&pause=1000&color=DC143C&center=true&vCenter=true&width=650&lines=A+little+logic%2C+a+lot+of+curiosity%2C+and+just+enough+mischief+to+keep+things+interesting." alt="Typing SVG" />
 </p>
 
 ---
